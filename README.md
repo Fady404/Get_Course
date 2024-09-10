@@ -1,2 +1,2 @@
-# get_course
+# Get_Course
 first project
